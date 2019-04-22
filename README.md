@@ -11,5 +11,5 @@ npm run start
 ```
 
 # Screenshot
-![](docs/Captura.png)
-![](docs/Captura2.png)
+![](docs/Captura.JPG)
+![](docs/Captura2.JPG)
