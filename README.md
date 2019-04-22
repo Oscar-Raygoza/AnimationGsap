@@ -1,11 +1,11 @@
-##AnimationGsap
+## AnimationGsap
 
 ## Installation
 
 ```
 npm install 
 
-//&Execute 
+Execute: 
 
 npm run start
 ```
