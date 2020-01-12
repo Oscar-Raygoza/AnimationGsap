@@ -7,6 +7,8 @@ npm install
 
 Execute: 
 
+npm i -g parcel
+
 npm run start
 ```
 
